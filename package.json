@@ -1,0 +1,26 @@
+{
+  "name": "urlmaker",
+  "version": "1.0.0",
+  "description": "This node module converts the sentence into string connected by \"-' or any custom character of choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umeshramya/urlmaker.git"
+  },
+  "keywords": [
+    "urlmaker",
+    "convert",
+    "words",
+    "to",
+    "url"
+  ],
+  "author": "Dr Umesh R Bilagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umeshramya/urlmaker/issues"
+  },
+  "homepage": "https://github.com/umeshramya/urlmaker#readme"
+}
